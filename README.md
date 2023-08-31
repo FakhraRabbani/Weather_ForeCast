@@ -22,19 +22,19 @@ Ready to dive in? Check out the WeatherHub repository now! Your support through 
 
 # How to Use:
 
-Enter the name of the desired city in the search bar.
-Click the "Search" button to retrieve the latest weather data.
-While the app fetches the information, enjoy the stylish loader animation.
-Once the data is ready, the current weather conditions will be displayed along with relevant images.
+1. Enter the name of the desired city in the search bar.
+2. Click the "Search" button to retrieve the latest weather data.
+3. While the app fetches the information, enjoy the stylish loader animation.
+4. Once the data is ready, the current weather conditions will be displayed along with relevant images.
 In case of any issues, such as mistyped city names, the app will prompt an error alert for quick resolution.
 
 # Technologies Used:
 
-HTML5: Structured the app's layout and content.
-JavaScript: Implemented the app's functionality to fetch and display weather data.
-Bootstrap: Created a responsive and visually appealing design.
-OpenWeatherMap API: Leveraged this API to access real-time weather data.
-CSS: Styled the app for a polished appearance.
+1. HTML5: Structured the app's layout and content.
+2. JavaScript: Implemented the app's functionality to fetch and display weather data.
+3. Bootstrap: Created a responsive and visually appealing design.
+4. OpenWeatherMap API: Leveraged this API to access real-time weather data.
+5. CSS: Styled the app for a polished appearance.
 
 #WeatherHub #CityWeather #WebAppMagic #LightAndDarkMode #StayInformed 🌦️🌄🚀
 
